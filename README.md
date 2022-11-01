@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bamik42
-- 👀 I’m interested in front-end developingment
+- 👀 I’m interested in front-end development
 - 🌱 I’m currently learning HTML,CSS and Javascript
 - 💞️ I’m looking to collaborate with a professional web-developer in mentorship and learning
 - 📫 How to reach me bamirokenny@gmail.com
